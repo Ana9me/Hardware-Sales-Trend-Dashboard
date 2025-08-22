@@ -12,4 +12,4 @@ Data Cleaning and Visualization using PowerBI
 ## Link to Live Dashboard 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTExODIwZDMtNzg3NC00YWU2LTkxOTQtMWMyNmMzZDdmZGEyIiwidCI6IjdiODdkYzgwLWY4MzctNGZmYS04NGM4LThhMDhkNDRiNzk5NyJ9">View Dashboard</a>
 
-![Dashboard Preview](https://app.powerbi.com/view?r=eyJrIjoiMTExODIwZDMtNzg3NC00YWU2LTkxOTQtMWMyNmMzZDdmZGEyIiwidCI6IjdiODdkYzgwLWY4MzctNGZmYS04NGM4LThhMDhkNDRiNzk5NyJ9)
+![Dashboard Preview](https://github.com/Ana9me/Hardware-Sales-Trend-Dashboard/blob/main/Screenshot%20of%20Hardware%20sales%20dashboard.png)
