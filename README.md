@@ -1,5 +1,7 @@
 # Hardware Sales Trend
 Sales Report of Atliq Hardware according to geographical regions.
+
+![Dashboard Preview](https://github.com/Ana9me/Hardware-Sales-Trend-Dashboard/blob/main/Photo.jpg)
 ## Tools Used: 
 MySQL & PowerBI
 ## Business Problem - 
