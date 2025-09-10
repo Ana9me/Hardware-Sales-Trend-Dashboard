@@ -4,7 +4,7 @@ Sales Report of Atliq Hardware according to geographical regions.
 ![Dashboard Preview](https://github.com/Ana9me/Hardware-Sales-Trend-Dashboard/blob/main/Photo.jpg)
 ## Tools Used: 
 MySQL & PowerBI
-## Business Problem - 
+## Business Questions - 
 1. Which markets are generating the most revenue?
 2. Which markets have the highest sales quantity?
 3.  What is the revenue trend over the years?
